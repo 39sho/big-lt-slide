@@ -43,21 +43,14 @@ nextが呼び出されるまで実行されない
 ---
 
 # メモリ使用量(Array)
-100万個の要素をもつArrayに1000回mapしたとき
-![width:1200](images/create_array(1000000%2C1000%2Cf)%5B0%5D.png)
+10000個の要素をもつArrayに1000回mapしてforEach
+![width:400](images/graph7.png) 50MB
 
 ---
 
 # メモリ使用量(Iterator)
-100万個の要素をもつIteratorに1000回mapして、
-nextを一回呼び出したとき
-**少なすぎてグラフにできない！！**
-
----
-
-1000個の要素をもつIteratorに1000回mapして、
-forEach
-![width:800](images/create_iterator(1000%2C1000%2Cf).forEach(n%3Dn).png)
+10000個の要素をもつIteratorに1000回mapしてforEach
+![width:600](images/graph6.png) 400KB
 
 ---
 
