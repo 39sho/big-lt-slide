@@ -102,6 +102,7 @@ forEachですべての要素をとりだすとき
 
 # おまけ
 Iteratorの速度で、赤色に塗られてた範囲について
+![bg left](images/graph1.png)
 
 ---
 
