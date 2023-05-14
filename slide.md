@@ -14,9 +14,11 @@ author: 39sho
 ---
 
 # 自己紹介
+![bg left:25% width:200](images/O6cx2U6O_400x400.png)
 - 名前: 39sho(さくしょー)
     - 本名: 作山 祥太
 - 学年: 学部1年
+- Twitter: https://twitter.com/G_39sho
 - 使う: JavaScript、TypeScript
 - 好き: 激辛料理
 
