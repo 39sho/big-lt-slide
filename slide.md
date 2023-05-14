@@ -8,14 +8,15 @@ author: 39sho
 ---
 
 # IteratorHelpers使ってみた
-
+@大LT 2023 春 in Aizu
 39sho(さくしょー)
 
 ---
 
 # 自己紹介
+- 名前: 39sho(さくしょー)
+    - 本名: 作山 祥太
 - 学年: 学部1年
-- 名前: 作山 祥太
 - 使う: JavaScript、TypeScript
 - 好き: 激辛料理
 
